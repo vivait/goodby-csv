@@ -4,3 +4,5 @@
 /composer.lock
 /metrics
 .php-cs-fixer.cache 
+.phpunit.result.cache
+.idea
